@@ -1,0 +1,6 @@
+If i am given a sentence then word by word i assign the part of speech to that sentence.
+Used in chatbots,question-answering systems,information retrieval systems-Pos tagging works as a word preprocessing step-If I want to explain the machine that what it
+wants to say syntactically-Pos tagging is used
+
+spacy library-a NLP library just like NLTK
+Word sense disambiguation-same word can be used multiple times having different meanings-so POS tagging can identify which word has what meaning.
